@@ -1,6 +1,5 @@
 import { ApolloClient, ApolloProvider, InMemoryCache } from '@apollo/client'
 import React from 'react'
-import '../styles/App.css'
 import { RestLink } from 'apollo-link-rest'
 import '@shopify/polaris/dist/styles.css'
 import enTranslations from '@shopify/polaris/locales/en.json'
